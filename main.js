@@ -229,6 +229,32 @@ class QuizApp {
             ${scoreEmoji} Bạn trả lời đúng <strong>${results.correctAnswers}/${results.totalQuestions}</strong> câu
         `;
 
+        // Thêm thống kê chi tiết
+        const statsHtml = `
+            <div class="row text-center mt-4 mb-4">
+                <div class="col-4">
+                    <div class="p-3 bg-success bg-opacity-10 rounded">
+                        <h4 class="text-success mb-1">${results.correctAnswers}</h4>
+                        <small class="text-success">Câu đúng</small>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="p-3 bg-danger bg-opacity-10 rounded">
+                        <h4 class="text-danger mb-1">${results.totalQuestions - results.correctAnswers}</h4>
+                        <small class="text-danger">Câu sai</small>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="p-3 bg-primary bg-opacity-10 rounded">
+                        <h4 class="text-primary mb-1">${results.percentage}%</h4>
+                        <small class="text-primary">Điểm số</small>
+                    </div>
+                </div>
+            </div>
+        `;
+        
+        scoreText.insertAdjacentHTML('afterend', statsHtml);
+
         // Hiển thị chi tiết từng câu hỏi
         reviewAccordion.innerHTML = '';
         results.details.forEach((detail, index) => {
@@ -252,28 +278,53 @@ class QuizApp {
                         <div class="question-review ${statusClass}">
                             <h6 class="fw-bold mb-3">${detail.question}</h6>
                             
-                            <div class="mb-2">
+                            <div class="mb-3">
                                 <strong>Câu trả lời của bạn:</strong>
-                                <span class="ms-2 ${isCorrect ? 'text-success' : 'text-danger'}">
-                                    ${detail.userAnswer}
-                                </span>
+                                <div class="p-2 mt-2 rounded ${isCorrect ? 'bg-success bg-opacity-10 border border-success' : 'bg-danger bg-opacity-10 border border-danger'}">
+                                    <span class="${isCorrect ? 'text-success' : 'text-danger'} fw-bold">
+                                        ${detail.userAnswer} ${isCorrect ? '✅' : '❌'}
+                                    </span>
+                                </div>
                             </div>
                             
                             ${!isCorrect ? `
-                                <div class="mb-2">
+                                <div class="mb-3">
                                     <strong>Đáp án đúng:</strong>
-                                    <span class="ms-2 text-success">${detail.correctAnswer}</span>
+                                    <div class="p-2 mt-2 rounded bg-success bg-opacity-10 border border-success">
+                                        <span class="text-success fw-bold">${detail.correctAnswer} ✅</span>
+                                    </div>
                                 </div>
-                            ` : ''}
+                            ` : `
+                                <div class="mb-3">
+                                    <div class="p-2 rounded bg-success bg-opacity-10 border border-success">
+                                        <span class="text-success fw-bold">🎉 Chính xác!</span>
+                                    </div>
+                                </div>
+                            `}
                             
                             <div class="mt-3">
                                 <strong>Tất cả các tùy chọn:</strong>
-                                <ul class="mt-2">
-                                    ${question.shuffledOptions.map(option => `
-                                        <li class="${option === detail.correctAnswer ? 'text-success fw-bold' : ''}">
-                                            ${option}
-                                        </li>
-                                    `).join('')}
+                                <ul class="list-unstyled mt-2">
+                                    ${detail.shuffledOptions.map(option => {
+                                        let cssClass = '';
+                                        let icon = '';
+                                        
+                                        if (option === detail.correctAnswer) {
+                                            cssClass = 'text-success fw-bold bg-success bg-opacity-10 border border-success';
+                                            icon = ' ✅';
+                                        } else if (option === detail.userAnswer && !isCorrect) {
+                                            cssClass = 'text-danger fw-bold bg-danger bg-opacity-10 border border-danger';
+                                            icon = ' ❌';
+                                        } else {
+                                            cssClass = 'text-muted';
+                                        }
+                                        
+                                        return `
+                                            <li class="p-2 mb-2 rounded ${cssClass}">
+                                                ${option}${icon}
+                                            </li>
+                                        `;
+                                    }).join('')}
                                 </ul>
                             </div>
                         </div>
@@ -324,6 +375,10 @@ class QuizApp {
         // Retake exam button
         document.getElementById('retakeBtn').addEventListener('click', () => this.retakeExam());
 
+        // Review accordion controls
+        document.getElementById('expandAllBtn').addEventListener('click', () => this.expandAllAccordions());
+        document.getElementById('collapseAllBtn').addEventListener('click', () => this.collapseAllAccordions());
+
         // Keyboard navigation
         document.addEventListener('keydown', (e) => {
             if (this.currentExam && document.getElementById('examArea').classList.contains('d-none') === false) {
@@ -347,6 +402,20 @@ class QuizApp {
                 <button class="btn btn-primary" onclick="location.reload()">Thử lại</button>
             </div>
         `;
+    }
+
+    expandAllAccordions() {
+        const accordionButtons = document.querySelectorAll('#reviewAccordion .accordion-button.collapsed');
+        accordionButtons.forEach(button => {
+            button.click();
+        });
+    }
+
+    collapseAllAccordions() {
+        const accordionButtons = document.querySelectorAll('#reviewAccordion .accordion-button:not(.collapsed)');
+        accordionButtons.forEach(button => {
+            button.click();
+        });
     }
 }
 
