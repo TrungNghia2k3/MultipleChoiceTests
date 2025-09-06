@@ -1,0 +1,1672 @@
+{
+    "exams": [
+        {
+            "id": 1,
+            "title": "Đề số 1",
+            "questions": [
+                {
+                    "id": 1,
+                    "question": "Phát biểu nào sau đây được xem là đặc tính của máy tính điện tử?",
+                    "options": [
+                        "A. Có tốc độ xử lý thông tin nhanh, độ chính xác cao",
+                        "B. Có thể làm việc không ngừng nghỉ suốt 24 giờ/ngày.",
+                        "C. Lưu trữ một lượng lớn thông tin trong các thiết bị lưu trữ có kích thước nhỏ.",
+                        "D. Tất cả đều đúng."
+                    ],
+                    "answer": "D. Tất cả đều đúng."
+                },
+                {
+                    "id": 2,
+                    "question": "Đổi số bát phân 555 sang số thập lục phân?",
+                    "options": [
+                        "A. 16C",
+                        "B. 1D6",
+                        "C. 16D",
+                        "D. 1C6"
+                    ],
+                    "answer": "C. 16D"
+                },
+                {
+                    "id": 3,
+                    "question": "Đơn vị đo tốc độ CPU là?",
+                    "options": [
+                        "A. MB",
+                        "B. Hg",
+                        "C. GB",
+                        "D. Hz"
+                    ],
+                    "answer": "D. Hz"
+                },
+                {
+                    "id": 4,
+                    "question": "Hệ thống nhớ của máy tính bao gồm?",
+                    "options": [
+                        "A. Cache, Bộ nhớ ngoài.",
+                        "B. Bộ nhớ ngoài, ROM.",
+                        "C. Đĩa quang, Bộ nhớ trong.",
+                        "D. Bộ nhớ trong, Bộ nhớ ngoài."
+                    ],
+                    "answer": "D. Bộ nhớ trong, Bộ nhớ ngoài."
+                },
+                {
+                    "id": 5,
+                    "question": "Ký hiệu rpm (revolutions per minute) là gì?",
+                    "options": [
+                        "A. Lưu lượng truyền của Internet.",
+                        "B. Dung lượng thẻ nhớ.",
+                        "C. Dung lượng Ram.",
+                        "D. Số vòng quay trong một phút của ổ cứng."
+                    ],
+                    "answer": "D. Số vòng quay trong một phút của ổ cứng."
+                },
+                {
+                    "id": 6,
+                    "question": "Thứ tự đơn vị lưu trữ thông tin theo chiều tăng dần?",
+                    "options": [
+                        "A. Kilobyte, Byte, Megabyte, Terabyte, Gigabyte.",
+                        "B. Kilobyte, Byte, Megabyte, Gigabyte, Terabyte.",
+                        "C. Byte, Kilobyte, Gigabyte, Megabyte, Terabyte.",
+                        "D. Byte, Kilobyte, Megabyte, Gigabyte, Terabyte."
+                    ],
+                    "answer": "D. Byte, Kilobyte, Megabyte, Gigabyte, Terabyte."
+                },
+                {
+                    "id": 7,
+                    "question": "Chữ viết tắt MB thường gặp trong các tài liệu máy tính có nghĩa là gì?",
+                    "options": [
+                        "A. Là đơn vị đo dộ phân giải màn hình.",
+                        "B. Là đơn vị đo cường độ âm thanh.",
+                        "C. Là đơn vị đo tốc độ xử lý",
+                        "D. LÀ đơn vị đo khả năng lưu trữ"
+                    ],
+                    "answer": "D. Là đơn vị đo khả năng lưu trữ"
+                },
+                {
+                    "id": 8,
+                    "question": "Địa chỉ IP nào sau đây không hợp lệ",
+                    "options": [
+                        "A. 192.168.1.1.",
+                        "B. 192.168.100.1.",
+                        "C. 192.168.10.123.",
+                        "D. 192.168.10.369."
+                    ],
+                    "answer": "D. 192.168.10.369."
+                },
+                {
+                    "id": 9,
+                    "question": "Trong Tin học, tập tin (file) là khái niệm chỉ?",
+                    "options": [
+                        "A. Một văn bản chứa các thông tin do người dùng tạo ra.",
+                        "B. Tập hợp các thông tin có cùng bản chất được lưu trữ trên bộ nhớ ngoài.",
+                        "C. Một đơn vị lưu trữ thông tin cơ bản.",
+                        "D. Một gói tin chứa các thông tin có cùng bản chất."
+                    ],
+                    "answer": "B. Tập hợp các thông tin có cùng bản chất được lưu trữ trên bộ nhớ ngoài."
+                },
+                {
+                    "id": 10,
+                    "question": "Để xóa một biểu tượng trên Desktop ta chọn biểu tượng cần xóa và?",
+                    "options": [
+                        "A. Nhấp phải chuột và chọn Delete.",
+                        "B. Bấm phím Delete.",
+                        "C. Dùng chuột kéo và thả biểu tượng đó vào Recycle Bin.",
+                        "D. Tất cả các ý đều đúng."
+                    ],
+                    "answer": "D. Tất cả các ý đều đúng."
+                },
+                {
+                    "id": 11,
+                    "question": "Để chuyển đổi qua lại giữa các trình ứng dụng đang được kích hoạt, ta sử dụng?",
+                    "options": [
+                        "A. Tổ hợp phím Ctrl + Tab.",
+                        "B. Tổ hợp phím Alt + Tab.",
+                        "C. Tổ hợp phím Shift + Tab.",
+                        "D. Tổ hợp phím Ctrl + C."
+                    ],
+                    "answer": "B. Tổ hợp phím Alt + Tab."
+                },
+                {
+                    "id": 12,
+                    "question": "Trong Windows, ký tự phân cách số thân phân là?",
+                    "options": [
+                        "A. Dấu chấm.",
+                        "B. Dấu phẩy.",
+                        "C. Dấu chấm phẩy.",
+                        "D. Tùy thuộc vào ký tự do người dùng quy định trong Control Panel."
+                    ],
+                    "answer": "D. Tùy thuộc vào ký tự do người dùng quy định trong Control Panel."
+                },
+                {
+                    "id": 13,
+                    "question": "Hệ điều hành máy tính?",
+                    "options": [
+                        "A. Phải có trên mọi máy tính cá nhân.",
+                        "B. Luôn có sẵn, không cần phải cài đặt.",
+                        "C. Do hãng phần mềm Microsoft xây dựng.",
+                        "D. Không cần có bản quyền."
+                    ],
+                    "answer": "A. Phải có trên mọi máy tính cá nhân."
+                },
+                {
+                    "id": 14,
+                    "question": "Tệp tin có phần mở rộng là RAR, ZIP cho ta biết đây là?",
+                    "options": [
+                        "A. Tập tin (File) nén.",
+                        "B. Tập tin (File) thực thi.",
+                        "C. Tập tin (File) video.",
+                        "D. Tập tin (File) văn bản."
+                    ],
+                    "answer": "A. Tập tin (File) nén."
+                },
+                {
+                    "id": 15,
+                    "question": "Để xóa hẳn một tập tin (File) mà không đưa vào Recycle Bin, ta chọn tập tin (File) đó rồi nhấn?",
+                    "options": [
+                        "A. Shift + Delete.",
+                        "B. Shift + Ctrl.",
+                        "C. Shift + Alt.",
+                        "D. Ctrl + Delete."
+                    ],
+                    "answer": "A. Shift + Delete."
+                },
+                {
+                    "id": 16,
+                    "question": "Tệp tin có phần mở rộng là EXE cho ta biết đây là?",
+                    "options": [
+                        "A. Tập tin (File) ảnh.",
+                        "B. Tập tin (File) văn bản.",
+                        "C. Tập tin (File) thực thi.",
+                        "D. Tập tin (File) âm thanh."
+                    ],
+                    "answer": "C. Tập tin (File) thực thi."
+                },
+                {
+                    "id": 17,
+                    "question": "Các con đường nào lây lan virus máy tính?",
+                    "options": [
+                        "A. Qua thiết bị nhớ USB, ổ đĩa di động.",
+                        "B. Qua sao chép file.",
+                        "C. Qua web, các phần mềm crack.",
+                        "D. Tất cả các phương án."
+                    ],
+                    "answer": "D. Tất cả các phương án."
+                },
+                {
+                    "id": 18,
+                    "question": "Phần mềm nào có thể soạn văn bản?",
+                    "options": [
+                        "A. WordPab",
+                        "B. NotePad",
+                        "C. TextPad",
+                        "D. Tất cả đều đúng"
+                    ],
+                    "answer": "D. Tất cả đều đúng"
+                },
+                {
+                    "id": 19,
+                    "question": "Trong Microsoft Office Word, công dụng tổ hợp Ctrl + H là?",
+                    "options": [
+                        "A. Tạo tệp văn bản mới",
+                        "B. Lưu tệp văn bản vào đĩa",
+                        "C. Gọi chức năng thay thế trong soạn thảo",
+                        "D. Định dạng chữ hoa cho văn bản được tạo khối"
+                    ],
+                    "answer": "C. Gọi chức năng thay thế trong soạn thảo"
+                },
+                {
+                    "id": 20,
+                    "question": "Trong Microsoft Office Word, công dụng của tổ hợp phím Ctrl + I là?",
+                    "options": [
+                        "A. Tạo chữ nghiêng của đoạn văn bản",
+                        "B. Mở file có sẵn trên đĩa",
+                        "C. Lưu file",
+                        "D. Xóa file"
+                    ],
+                    "answer": "A. Tạo chữ nghiêng của đoạn văn bản"
+                },
+                {
+                    "id": 21,
+                    "question": "Trong Microsoft Office Word, công dụng của tổ hợp phím Ctrl + Shift + D là?",
+                    "options": [
+                        "A. Gạch đôi dưới chân dưới dòng văn bản",
+                        "B. Mở file sẵn trên đĩa",
+                        "C. Lưu file",
+                        "D. Xóa file"
+                    ],
+                    "answer": "A. Gạch đôi dưới chân dưới dòng văn bản"
+                },
+                {
+                    "id": 22,
+                    "question": "Trong Microsoft Office Word, công dụng tổ hợp phím \"Ctrl và = \" là?",
+                    "options": [
+                        "A. Tạo chỉ số dưới",
+                        "B. Không làm gì cả",
+                        "C. Lưu file",
+                        "D. Xóa file"
+                    ],
+                    "answer": "A. Tạo chỉ số dưới"
+                },
+                {
+                    "id": 23,
+                    "question": "Trong Microsoft Office Word muốn tạo tiêu đề đầu và cuối cho trang văn bản ta dùng nhóm lệnh?",
+                    "options": [
+                        "A. Footnote và Endnnote",
+                        "B. Bullets và Numbering",
+                        "C. Header và Numbering",
+                        "D. Header và Footer"
+                    ],
+                    "answer": "D. Header và Footer"
+                },
+                {
+                    "id": 24,
+                    "question": "Trong Microsoft Office Word để mở hộp thoại định dạng Font chữ ta sử dụng phím tắt?",
+                    "options": [
+                        "A. Ctrl + A.",
+                        "B. Ctrl + B.",
+                        "C. Ctrl + C.",
+                        "D. Ctrl + D."
+                    ],
+                    "answer": "D. Ctrl + D."
+                },
+                {
+                    "id": 25,
+                    "question": "Soạn thảo văn bản trong chương trình Microsoft Office Word, ký tự đặt biệt được chèn như thế nào?",
+                    "options": [
+                        "A. Chọn lệnh Edit \\ Symbol....",
+                        "B. Chọn lệnh Insert \\ Special...",
+                        "C. Kích chuột phải tại vị trí muốn chèn, chọn Insert Symbol....",
+                        "D. Chọn lệnh Insert \\ Symbol...."
+                    ],
+                    "answer": "D. Chọn lệnh Insert \\ Symbol...."
+                },
+                {
+                    "id": 26,
+                    "question": "Để tạo một liên kết từ văn bản hiện hành đến 1 địa chỉ Web hay tập tin khác ta sử dụng phím tắt?",
+                    "options": [
+                        "A. Ctrl + K.",
+                        "B. Ctrl + H.",
+                        "C. Ctrl + I.",
+                        "D. Ctrl + J."
+                    ],
+                    "answer": "A. Ctrl + K."
+                },
+                {
+                    "id": 27,
+                    "question": "Cách tổ chức thông tin của bảng tính trong Microsoft Office Excel là?",
+                    "options": [
+                        "A. Theo dạng văn bản.",
+                        "B. Theo ma trận hàng và cột gọi là Bảng (Table).",
+                        "C. Giống như máy tính bỏ túi.",
+                        "D. Theo dạng biểu đồ."
+                    ],
+                    "answer": "B. Theo ma trận hàng và cột gọi là Bảng (Table)."
+                },
+                {
+                    "id": 28,
+                    "question": "Trong Microsoft Office Excel ô A3 chứa chuỗi “100”, công thức: =IF(LEFT(A3,1)=1,100,150) có kết quả là",
+                    "options": [
+                        "A. 150",
+                        "B. 100",
+                        "C. #N/A",
+                        "D. 50"
+                    ],
+                    "answer": "A. 150"
+                },
+                {
+                    "id": 29,
+                    "question": "Để di chuyển con trỏ về ô đầu tiên trong bảng tính (A1) ta sử dụng phím tắt?",
+                    "options": [
+                        "A. Ctrl + Home.",
+                        "B. Ctrl + End.",
+                        "C. Home.",
+                        "D. End."
+                    ],
+                    "answer": "A. Ctrl + Home."
+                },
+                {
+                    "id": 30,
+                    "question": "Phím Ctrl + PgDn trong Microsofft Office Excel có tác dụng gì?",
+                    "options": [
+                        "A. Di chuyển sang bảng tính kế tiếp (bên phải) trong Workbook.",
+                        "B. Di chuyển sang bảng tính trước (bên trái) trong Workbook.",
+                        "C. Di chuyển sang phải một trang màn hình.",
+                        "D. Di chuyển sang trái một trang màn hình."
+                    ],
+                    "answer": "A. Di chuyển sang bảng tính kế tiếp (bên phải) trong Workbook."
+                },
+                {
+                    "id": 31,
+                    "question": "Câu nào sau đây sai? Khi nhập dữ liệu vào bảng tính Microsofft Office Excel thì?",
+                    "options": [
+                        "A. Dữ liệu kiểu kí tự sẽ mặc nhiên căn thẳng lề trái.",
+                        "B. Dữ liệu kiểu thời gian sẽ mặc nhiên căn thẳng lề phải.",
+                        "C. Dữ liệu kiểu ngày tháng sẽ mặc nhiên căn thắng lề phải.",
+                        "D. Dữ liệu kiểu số sẽ mặc nhiên căn thẳng lề trái."
+                    ],
+                    "answer": "D. Dữ liệu kiểu số sẽ mặc nhiên căn thẳng lề trái."
+                },
+                {
+                    "id": 32,
+                    "question": "Trong Excel, khi viết sai tên hàm trong tính toán, chương trình thông báo lỗi?",
+                    "options": [
+                        "A. #NAME!",
+                        "B. #VALUE!",
+                        "C. #N/A!",
+                        "D. #DIV/0!"
+                    ],
+                    "answer": "A. #NAME!"
+                },
+                {
+                    "id": 33,
+                    "question": "Chỉ số tiếp theo sau cột Z trong một bảng tính là?",
+                    "options": [
+                        "A. Z1",
+                        "B. AA",
+                        "C. ZA",
+                        "D. ZZ"
+                    ],
+                    "answer": "B. AA"
+                },
+                {
+                    "id": 34,
+                    "question": "Trong Excel, tại ô C4 công thức là: SUM($A1:A20)/COUNT(A$1:A$20). Khi sao chép đến ô C5 là?",
+                    "options": [
+                        "A. SUM($A2:A21)/COUNT(A$1:A$20)",
+                        "B. SUM($A3:A21)/COUNT(A$1:A$20)",
+                        "C. SUM($A5:A21)/COUNT(A$1:A$20)",
+                        "D. SUM(SA1:A21)/COUNT(A$1:A$21)"
+                    ],
+                    "answer": "A. SUM($A2:A21)/COUNT(A$1:A$20)"
+                },
+                {
+                    "id": 35,
+                    "question": "Trong Excel, kết quả của hàm IF(LEN(\"CNTT 123\")=7,20,10) là?",
+                    "options": [
+                        "A. 20",
+                        "B. 10",
+                        "C. 7",
+                        "D. 8"
+                    ],
+                    "answer": "B. 10"
+                },
+                {
+                    "id": 36,
+                    "question": "Thuyết trình là gì?",
+                    "options": [
+                        "A. Là quá trình soạn thảo và gửi thư đến một người.",
+                        "B. Là quá trình chuyển giao công nghệ và kiến thức cho mọi người",
+                        "C. Tất cả các ý kiến đều đúng.",
+                        "D. Là các truyền đạt ý tưởng (ideas) và các thông tin (information) đến một nhóm người (group)"
+                    ],
+                    "answer": "D. Là các truyền đạt ý tưởng (ideas) và các thông tin (information) đến một nhóm người (group)"
+                },
+                {
+                    "id": 37,
+                    "question": "Microsoft Office PowerPoint là phần mềm?",
+                    "options": [
+                        "A. Có bản quyền.",
+                        "B. Mã nguồn mở.",
+                        "C. Miễn phí.",
+                        "D. Tất cả đều đúng."
+                    ],
+                    "answer": "A. Có bản quyền."
+                },
+                {
+                    "id": 38,
+                    "question": "Mỗi trang trình diễn trong PowerPoint được gọi là?",
+                    "options": [
+                        "A. Một Document.",
+                        "B. Một File.",
+                        "C. Tất cả đều sai.",
+                        "D. Một Slide."
+                    ],
+                    "answer": "D. Một Slide."
+                },
+                {
+                    "id": 39,
+                    "question": "Để bắt đầu trình chiếu từ Slide đầu tiên ta sử dụng phím tắt?",
+                    "options": [
+                        "A. Shift + F5.",
+                        "B. Ctrl + F5.",
+                        "C. Alt + F5.",
+                        "D. F5."
+                    ],
+                    "answer": "D. F5."
+                },
+                {
+                    "id": 40,
+                    "question": "Trong Microsoft Office PowerPoint, để chuyển từ 'Trung tâm tin học' sang tất cả chữ viết hoa 'TRUNG TÂM TIN HỌC' ta thực hiện chọn cụm văn bản đó và...",
+                    "options": [
+                        "A. Gõ lệnh UPPER.",
+                        "B. Nhấn phím F3.",
+                        "C. Nhấn phím Ctrl+F3.",
+                        "D. Nhấn phím Shift + F3."
+                    ],
+                    "answer": "D. Nhấn phím Shift + F3."
+                },
+                {
+                    "id": 41,
+                    "question": "Trong Microsoft Office PowerPoint, để vẽ 1 đường thẳng chính xác theo đường ngang hay đứng sau khi chọn Insert/Shape/Line ta kết hợp phím .... khi vẽ?",
+                    "options": [
+                        "A. Alt.",
+                        "B. Ctrl.",
+                        "C. Ctrl + Shift.",
+                        "D. Shift."
+                    ],
+                    "answer": "D. Shift."
+                },
+                {
+                    "id": 42,
+                    "question": "Tab nào chỉ xuất hiện trên Ribbon của Microsoft Office PowerPoint khi ta chọn vào đối tượng?",
+                    "options": [
+                        "A. PageLayout.",
+                        "B. Insert.",
+                        "C. Home.",
+                        "D. Format."
+                    ],
+                    "answer": "D. Format."
+                },
+                {
+                    "id": 43,
+                    "question": "Để thêm hiệu ứng cho các đối tượng trong Slide trong Microsoft Office PowerPoint ta thao tác tại thẻ?",
+                    "options": [
+                        "A. Slide show.",
+                        "B. View.",
+                        "C. Animations.",
+                        "D. Transitions."
+                    ],
+                    "answer": "C. Animations."
+                },
+                {
+                    "id": 44,
+                    "question": "Việc kết nối các máy tính thành mạng máy tính là cần thiết để?",
+                    "options": [
+                        "A. Giải trí.",
+                        "B. Dùng chung máy in, phần mềm.",
+                        "C. Sao chép một khối lượng thông tin.",
+                        "D. Chia sẻ tài nguyên."
+                    ],
+                    "answer": "D. Chia sẻ tài nguyên."
+                },
+                {
+                    "id": 45,
+                    "question": "Trong các phát biểu sau về địa chỉ IP sau, phát biểu nào đúng",
+                    "options": [
+                        "A. Địa chỉ IP cho biết loại máy tính kết nối vào mạng.",
+                        "B. Các máy tính tham gia vào mạng Internet có thể có cùng địa chỉ IP.",
+                        "C. Các máy tính tham gia vào mạng Internet không cần địa chỉ IP.",
+                        "D. Mỗi máy tính tham gia mạng Internet phải có một địa chỉ duy nhất được gọi là địa chỉ IP."
+                    ],
+                    "answer": "D. Mỗi máy tính tham gia mạng Internet phải có một địa chỉ duy nhất được gọi là địa chỉ IP."
+                },
+                {
+                    "id": 46,
+                    "question": "Thông tin nào sau đây nói về thư điện tử",
+                    "options": [
+                        "A. Người đưa thư chỉ việc để thư ở hòm thư trước nhà người nhận là người nhận có thể biết được nội dung.",
+                        "B. Là dịch vụ thực hiện truyền thông tin qua Internet thông qua Google.",
+                        "C. Dịch vụ này chưa có.",
+                        "D. Là dịch vụ thực hiện truyền thông tin qua Internet thông qua các hộp thư điện tử."
+                    ],
+                    "answer": "D. Là dịch vụ thực hiện truyền thông tin qua Internet thông qua các hộp thư điện tử."
+                },
+                {
+                    "id": 47,
+                    "question": "Tường lửa (Firewall) là gì",
+                    "options": [
+                        "A. Một hệ thống được xây dựng để đảm bảo an ninh cho công ty.",
+                        "B. Một hệ thống báo cháy.",
+                        "C. Một hệ thống bảo mật thông tin.",
+                        "D. Một hệ thống bao gồm cả phần cứng và phần mềm có mục đích chống lại sự xâm nhập trái phép từ"
+                    ],
+                    "answer": "D. Một hệ thống bao gồm cả phần cứng và phần mềm có mục đích chống lại sự xâm nhập trái phép từ"
+                },
+                {
+                    "id": 48,
+                    "question": "Khi muốn lưu một trang Web lên máy tính cục bộ, bạn phải làm thế nào",
+                    "options": [
+                        "A. Chọn Edit > Select All.",
+                        "B. Nhấn Ctrl+A.",
+                        "C. Nhấn Alt+S.",
+                        "D. Kích phải chuột trên trang Web và chọn Save As."
+                    ],
+                    "answer": "D. Kích phải chuột trên trang Web và chọn Save As."
+                },
+                {
+                    "id": 49,
+                    "question": "Trong các câu bên dưới, câu nào sai?",
+                    "options": [
+                        "A. Thương mại điện tử giúp doanh nghiệp giảm chi phí và tăng hiệu quả trong quảng cáo.",
+                        "B. Thương mại điện tử giúp doanh nghiệp vươn ra thị trường thế giới.",
+                        "C. Thương mại điện tử là một khái niệm còn khá mới mẻ ở Việt Nam.",
+                        "D. Thương mại điện tử hoàn toàn độc lập với các hoạt động thương mại truyền thống."
+                    ],
+                    "answer": "D. Thương mại điện tử hoàn toàn độc lập với các hoạt động thương mại truyền thống."
+                },
+                {
+                    "id": 50,
+                    "question": "Những phần mềm dưới đây là dịch vụ tin nhắn tức thời (IM-Instant Messaging)",
+                    "options": [
+                        "A. Facebook, Google Hangout, Firefox.",
+                        "B. Dropbox, Google Hangout, Skype.",
+                        "C. Facebook, Google Drive, Skype.",
+                        "D. Facebook, Google Hangout, Skype."
+                    ],
+                    "answer": "D. Facebook, Google Hangout, Skype."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Đề số 2",
+            "questions": [
+                {
+                    "id": 1,
+                    "question": "Màn hình được kết nối với máy tính thông qua cổng nào sau đây?",
+                    "options": [
+                        "A. LPT.",
+                        "B. USB.",
+                        "C. PS/2.",
+                        "D. VGA/HDMI."
+                    ],
+                    "answer": "D. VGA/HDMI."
+                },
+                {
+                    "id": 2,
+                    "question": "Mỗi Track trên đĩa cứng được chia thành các phần nhỏ được gọi là?",
+                    "options": [
+                        "A. Head.",
+                        "B. Sector.",
+                        "C. Cylinder.",
+                        "D. Cluster."
+                    ],
+                    "answer": "B. Sector."
+                },
+                {
+                    "id": 3,
+                    "question": "Đổi số thập lục phân CFA5 ra dãy nhị phân?",
+                    "options": [
+                        "A. 1100 1110 1010 0101",
+                        "B. 1100 1101 1000 0101",
+                        "C. 1100 1011 1000 0101",
+                        "D. 1100 1111 1010 0101"
+                    ],
+                    "answer": "D. 1100 1111 1010 0101"
+                },
+                {
+                    "id": 4,
+                    "question": "Đĩa CD (CD-rom) và đĩa mềm (Floppy disk) là phần cứng hay phần mềm của máy tính?",
+                    "options": [
+                        "A. Phần mềm.",
+                        "B. Phần sụn.",
+                        "C. Phần cứng.",
+                        "D. Là phần ảo gắn thêm."
+                    ],
+                    "answer": "C. Phần cứng."
+                },
+                {
+                    "id": 5,
+                    "question": "Những thiết bị nào sau đây được xếp vào nhóm thiết bị nội vi?",
+                    "options": [
+                        "A. Mainboard, CPU, RAM.",
+                        "B. Mainboard, CPU, Đĩa CD-ROM, Mouse.",
+                        "C. HDD, Đĩa CD-ROM.",
+                        "D. FDD, Keyboardd. Monitor, Keyboard, Mouse, Scanner."
+                    ],
+                    "answer": "A. Mainboard, CPU, RAM."
+                },
+                {
+                    "id": 6,
+                    "question": "Lệnh nào sau đây cho biết địa chỉ IP của máy trong tính (win2000,NT,Winxp)?",
+                    "options": [
+                        "A. TCP/IP.",
+                        "B. IPCONFIG.",
+                        "C. PING.",
+                        "D. IP."
+                    ],
+                    "answer": "B. IPCONFIG."
+                },
+                {
+                    "id": 7,
+                    "question": "Web Server là gì?",
+                    "options": [
+                        "A. Là máy tính đang được sử dụng để xem nội dung các trang web?",
+                        "B. Là một dịch vụ của Internet.",
+                        "C. Tất cả các câu trên đều đúng.",
+                        "D. Là máy chủ dùng để đặt các trang Web trên Internet."
+                    ],
+                    "answer": "D. Là máy chủ dùng để đặt các trang Web trên Internet."
+                },
+                {
+                    "id": 8,
+                    "question": "Hệ điều hành không phải trả phí bản quyền khi sử dụng là hệ điều hành?",
+                    "options": [
+                        "A. MS-WINDOWS 2000.",
+                        "B. MS DOS.",
+                        "C. LINUX.",
+                        "D. Cả Ms DOS và LINUX."
+                    ],
+                    "answer": "D. Cả Ms DOS và LINUX."
+                },
+                {
+                    "id": 9,
+                    "question": "Thành phần nào sau đây là vùng nhớ tạm thời cho các dữ liệu?",
+                    "options": [
+                        "A. RAM.",
+                        "B. Register.",
+                        "C. Floppy Disk.",
+                        "D. Hard Disk."
+                    ],
+                    "answer": "A. RAM."
+                },
+                {
+                    "id": 10,
+                    "question": "Trong hệ điều hành Microsoft Windows, muốn xem tổ chức các tập tin và thư mục trên đĩa, ta có thể sử dụng",
+                    "options": [
+                        "A. My Computer hoặc Window Explorer.",
+                        "B. My Computer hoặc Recycle Bin.",
+                        "C. Windows Explorer hoặc Recycle Bin.",
+                        "D. My Computer hoặc My Network Places."
+                    ],
+                    "answer": "A. My Computer hoặc Window Explorer."
+                },
+                {
+                    "id": 11,
+                    "question": "Trong Windows Explorer, muốn chọn (đánh dấu chọn) một nhóm các tập tin nằm rời rạc cách nhau ta",
+                    "options": [
+                        "A. Nhấn phím Alt rồi Click chọn các tập tin muốn chọn.",
+                        "B. Nhấn phím Shift rồi Click chọn các tập tin muốn chọn.",
+                        "C. Nhấn phím Ctrl rồi kích chọn các tập tin muốn chọn.",
+                        "D. Không cách nào đúng."
+                    ],
+                    "answer": "C. Nhấn phím Ctrl rồi kích chọn các tập tin muốn chọn."
+                },
+                {
+                    "id": 12,
+                    "question": "Trong phần mềm thư điện tử Outlook, ý nghĩa của biểu tượng \"Kẹp giấy\" xuất hiện bên cạnh các email mà",
+                    "options": [
+                        "A. Có tập tin đính kèm thư đó.",
+                        "B. Cẩn thận, có virus gắn kèm email đó.",
+                        "C. Email có thông tin quan trọng.",
+                        "D. Bạn bắt buộc phải trả lời email ngay khi đọc."
+                    ],
+                    "answer": "A. Có tập tin đính kèm thư đó."
+                },
+                {
+                    "id": 13,
+                    "question": "Kí hiệu đầu tiên của các ổ đĩa cứng có trong máy tính là",
+                    "options": [
+                        "A. A.",
+                        "B. B.",
+                        "C. C.",
+                        "D. D."
+                    ],
+                    "answer": "C. C."
+                },
+                {
+                    "id": 14,
+                    "question": "Khi xoá một biểu tượng tắt (ShortCut) của một tập tin thì",
+                    "options": [
+                        "A. Tập tin (File) nguồn cũng bị xoá.",
+                        "B. Tập tin (File) bị di chuyển sang một thư mục (Folder) khác.",
+                        "C. Tất cả đều đúng.",
+                        "D. Tập tin (File) nguồn không bị xoá."
+                    ],
+                    "answer": "D. Tập tin (File) nguồn không bị xoá."
+                },
+                {
+                    "id": 15,
+                    "question": "Bạn đã bật bộ gõ tiếng Việt (Vietkey hoặc Unikey) để soạn thảo. Bạn lựa chọn kiểu gõ Telex và bảng mã Unicode. Khi đó, bạn cần chọn nhóm font chữ nào trong các font chữ sau để có thể gõ và hiển thị văn bản tiếng Việt",
+                    "options": [
+                        "A. Tahoma, Verdana, Times New Roman.",
+                        "B. Vn Times, .Vn Arial, .Vn Courier.",
+                        "C. Vn Times, Times new roman, Arial.",
+                        "D. .VNI times, Arial, .Vn Avant."
+                    ],
+                    "answer": "A. Tahoma, Verdana, Times New Roman."
+                },
+                {
+                    "id": 16,
+                    "question": "Các chương trình nào không phải là chương trình diệt virus ?",
+                    "options": [
+                        "A. Kaspersky.",
+                        "B. Norton Antilvirus.",
+                        "C. Bkav.",
+                        "D. WinRAR."
+                    ],
+                    "answer": "D. WinRAR."
+                },
+                {
+                    "id": 17,
+                    "question": "Các phần mềm nào dưới đây là phần mềm xử lý văn bản",
+                    "options": [
+                        "A. Abiword.",
+                        "B. LibreOffice.",
+                        "C. Ulysses III.",
+                        "D. Tất cả đều đúng."
+                    ],
+                    "answer": "D. Tất cả đều đúng."
+                },
+                {
+                    "id": 18,
+                    "question": "Trong Microsoft Office Word, Để di chuyển con trỏ về cuối văn bản, dùng tổ hợp phím?",
+                    "options": [
+                        "A. Ctrl +PageDown",
+                        "B. Ctrl + PgUp",
+                        "C. Ctrl + Enter",
+                        "D. Ctrl + End"
+                    ],
+                    "answer": "D. Ctrl + End"
+                },
+                {
+                    "id": 19,
+                    "question": "Trong Microsoft Office Word, công dụng của tổ hợp phím Ctrl + J là?",
+                    "options": [
+                        "A. Canh đều hai bên của đoạn văn bản",
+                        "B. Xóa file",
+                        "C. Mở file có sẵn trên đĩa",
+                        "D. Luru file"
+                    ],
+                    "answer": "A. Canh đều hai bên của đoạn văn bản"
+                },
+                {
+                    "id": 20,
+                    "question": "Trong Microsoft Office Word, công dụng của tổ hợp phím Ctrl + Shift + F12 là?",
+                    "options": [
+                        "A. Tạo chỉ số dưới",
+                        "B. Tạo chỉ số trên",
+                        "C. Mở lệnh in (giống với phím tắt Ctrl +P)",
+                        "D. Tăng kích thước font chữ."
+                    ],
+                    "answer": "C. Mở lệnh in (giống với phím tắt Ctrl +P)"
+                },
+                {
+                    "id": 21,
+                    "question": "Trong Word muốn nhóm nhiều đối tượng hình vẽ thành một đối tượng sau khi chọn các đối tượng muốn nhóm ta thực hiện:",
+                    "options": [
+                        "A. Kích chuột phải -> Regroup.",
+                        "B. Kích chuột phải - Ungroup.",
+                        "C. Design-> Group.",
+                        "D. Kích chuột phải -> Group."
+                    ],
+                    "answer": "D. Kích chuột phải -> Group."
+                },
+                {
+                    "id": 22,
+                    "question": "Trong hộp thoại Font, Font Style là định dạng gì",
+                    "options": [
+                        "A. Kiểu chữ: In đậm, in nghiêng hay thường.",
+                        "B. Kích cỡ chữ.",
+                        "C. Màu chữ.",
+                        "D. Chỉ số trên và chỉ số dưới."
+                    ],
+                    "answer": "A. Kiểu chữ: In đậm, in nghiêng hay thường."
+                },
+                {
+                    "id": 23,
+                    "question": "Muốn kẻ khung và tô nền trong Word ta chọn lệnh:",
+                    "options": [
+                        "A. Tabs....",
+                        "B. Drop Cap....",
+                        "C. Borders and Shading....",
+                        "D. Bullets and Numbering...."
+                    ],
+                    "answer": "C. Borders and Shading...."
+                },
+                {
+                    "id": 24,
+                    "question": "Chức năng Hyperlink trong Microsoft Office Word dùng để làm gì?",
+                    "options": [
+                        "A. Tạo ra 1 trang Website.",
+                        "B. Chèn tiêu đề đầu trang.",
+                        "C. Chèn tiêu đề cuối trang.",
+                        "D. Tạo một liên kết từ văn bản hiện hành đến 1 địa chỉ Web hay tập tin khác."
+                    ],
+                    "answer": "D. Tạo một liên kết từ văn bản hiện hành đến 1 địa chỉ Web hay tập tin khác."
+                },
+                {
+                    "id": 25,
+                    "question": "Để tạo chữ viết tắt trong Microsoft Office Word ta sử dụng chức năng nào?",
+                    "options": [
+                        "A. InsertChar.",
+                        "B. Tất cả đều sai.",
+                        "C. AutoCorrect Option.",
+                        "D. Hightlight."
+                    ],
+                    "answer": "C. AutoCorrect Option."
+                },
+                {
+                    "id": 26,
+                    "question": "Phần mềm nào dưới đây là phần mềm bảng tính?",
+                    "options": [
+                        "A. Microsofft Office Excel 2010.",
+                        "B. Apple iWorks - Apple Number.",
+                        "C. Open Office - Calc.",
+                        "D. Tất cả đều đúng."
+                    ],
+                    "answer": "D. Tất cả đều đúng."
+                },
+                {
+                    "id": 27,
+                    "question": "Open Office Calc là phần mềm?",
+                    "options": [
+                        "A. Bản quyền.",
+                        "B. Miễn phí.",
+                        "C. Là sản phẩm của Google.",
+                        "D. Đã được mua bởi Microsoft."
+                    ],
+                    "answer": "B. Miễn phí."
+                },
+                {
+                    "id": 28,
+                    "question": "Trong Microsoft Office Excel các dạng địa chỉ sau đây, địa chỉ nào là địa chỉ tuyệt đối tại cột, tương đối tại hàng?",
+                    "options": [
+                        "A. SB1:SD10",
+                        "B. B$1$10",
+                        "C. B$1$$10$",
+                        "D. $B$1:$D$10"
+                    ],
+                    "answer": "A. SB1:SD10"
+                },
+                {
+                    "id": 29,
+                    "question": "Trong Microsoft Office Excel, tại ô A2 có giá trị là số 10; ô B2 có giá trị là số 3. Tại ô C2 gõ công thức =MOD(A2,B2) thì nhận được kết quả?",
+                    "options": [
+                        "A. 10",
+                        "B. 3",
+                        "C. #Value",
+                        "D. 1"
+                    ],
+                    "answer": "D. 1"
+                },
+                {
+                    "id": 30,
+                    "question": "Trong Microsoft Office Excel chức năng Wrap Text dùng để làm gì ?",
+                    "options": [
+                        "A. Canh lề văn bản",
+                        "B. Tự động hiển thị xuống hàng văn bản khi chiều dài của ô chứa văn bản nhỏ hơn văn bản.",
+                        "C. Lưu văn bản",
+                        "D. Định dạng Font chữ"
+                    ],
+                    "answer": "B. Tự động hiển thị xuống hàng văn bản khi chiều dài của ô chứa văn bản nhỏ hơn văn bản."
+                },
+                {
+                    "id": 31,
+                    "question": "Trong Microsoft Office Excel, giá trị trả về của công thức =LEN(“TRUNG TAM BACH KHOA\")?",
+                    "options": [
+                        "A. 17",
+                        "B. 19",
+                        "C. 16",
+                        "D. 21"
+                    ],
+                    "answer": "B. 19"
+                },
+                {
+                    "id": 32,
+                    "question": "Trong Microsoft Office Excel, kết quả khi thực hiện công thức: “Tin hoc”& “,”&MOD(17,3)?",
+                    "options": [
+                        "A. Tin hoc",
+                        "B. #NAME?",
+                        "C. Tin hoc &2",
+                        "D. Tin hoc,2"
+                    ],
+                    "answer": "D. Tin hoc,2"
+                },
+                {
+                    "id": 33,
+                    "question": "Trong Microsoft Office Excel, kết quả khi thực hiện công thức: INT(-12.11) là?",
+                    "options": [
+                        "A. -13",
+                        "B. 12.11",
+                        "C. -12",
+                        "D. 12.1"
+                    ],
+                    "answer": "A. -13"
+                },
+                {
+                    "id": 34,
+                    "question": "Trong Microsoft Office Excel, kết quả khi thực hiện công thức RAND()?",
+                    "options": [
+                        "A. Số bất kỳ lớn 1",
+                        "B. Số bất kỳ lớn hơn hoặc bằng 0 và nhỏ hơn 1",
+                        "C. Số lớn hơn 0",
+                        "D. Tất cả đều đúng"
+                    ],
+                    "answer": "B. Số bất kỳ lớn hơn hoặc bằng 0 và nhỏ hơn 1"
+                },
+                {
+                    "id": 35,
+                    "question": "Hoạt động trình bày thuyết trình cần có các thành phần?",
+                    "options": [
+                        "A. Người trình bày.",
+                        "B. Nội dung trình bày",
+                        "C. Thiết bị hỗ trợ trình bày",
+                        "D. Tất cả các ý kiến đều đúng."
+                    ],
+                    "answer": "D. Tất cả các ý kiến đều đúng."
+                },
+                {
+                    "id": 36,
+                    "question": "Open Office Impress là phần mềm?",
+                    "options": [
+                        "A. Có bản quyền.",
+                        "B. Cấm sao chép.",
+                        "C. Miễn phí.",
+                        "D. Tất cả đều đúng."
+                    ],
+                    "answer": "C. Miễn phí."
+                },
+                {
+                    "id": 37,
+                    "question": "Mỗi trang trình bày (Slide) có thể gồm?",
+                    "options": [
+                        "A. Ký tự.",
+                        "B. Hình ảnh.",
+                        "C. Biểu đồ.",
+                        "D. Tất cả đều đúng."
+                    ],
+                    "answer": "D. Tất cả đều đúng."
+                },
+                {
+                    "id": 38,
+                    "question": "Sau khi đã chọn một đoạn văn bản, thao tác nào sau đây không làm mất đi đoạn văn bản đó?",
+                    "options": [
+                        "A. Nhấn tổ hợp phím Ctrl+C.",
+                        "B. Nhắp chuột trái vào nút lệnh Cut (biểu tượng là cái kéo) trên thanh công cụ.",
+                        "C. Nhấn phím Delete.",
+                        "D. Nhấn phím Backspace."
+                    ],
+                    "answer": "A. Nhấn tổ hợp phím Ctrl+C."
+                },
+                {
+                    "id": 39,
+                    "question": "Trong Microsoft Office PowerPoint, để tạo hiệu ứng chuyển tiếp giữa các slide ta chọn nhóm hiệu ứng?",
+                    "options": [
+                        "A. Animations.",
+                        "B. Transitions.",
+                        "C. Slide Show.",
+                        "D. Design."
+                    ],
+                    "answer": "B. Transitions."
+                },
+                {
+                    "id": 40,
+                    "question": "Trong Microsoft Office PowerPoint, để tạo mới 1 Slide ta nhấn phím tắt?",
+                    "options": [
+                        "A. Ctrl + N.",
+                        "B. Ctrl + M.",
+                        "C. Ctrl + C.",
+                        "D. Ctrl + O."
+                    ],
+                    "answer": "B. Ctrl + M."
+                },
+                {
+                    "id": 41,
+                    "question": "Trong Microsoft Office PowerPoint, để thay đổi định dạng màu nền của đối tượng, ta chọn đối tượng và",
+                    "options": [
+                        "A. Shape Fill.",
+                        "B. Shape Outline.",
+                        "C. Shape Effects.",
+                        "D. Tất cả đều sai."
+                    ],
+                    "answer": "A. Shape Fill."
+                },
+                {
+                    "id": 42,
+                    "question": "Trong Microsoft Office PowerPoint, để vẽ chính xác một hình tròn với tâm là điểm được chọn tại vị trí ban đầu của con trỏ sau khi chọn Insert/Shape/Oval ta kết hợp phím ... khi về?",
+                    "options": [
+                        "A. Alt.",
+                        "B. Ctrl.",
+                        "C. Shift.",
+                        "D. Ctrl + Shift."
+                    ],
+                    "answer": "D. Ctrl + Shift."
+                },
+                {
+                    "id": 43,
+                    "question": "Trong Microsoft Office PowerPoint muốn chèn 1 đoạn phim ta chọn?",
+                    "options": [
+                        "A. Design/Video.",
+                        "B. Design/Audio.",
+                        "C. Insert/Video.",
+                        "D. Insert/Audio."
+                    ],
+                    "answer": "C. Insert/Video."
+                },
+                {
+                    "id": 44,
+                    "question": "Trong Microsoft Office PowerPoint,, để thêm hiệu ứng nổi bật tại chỗ cho đối tượng ta thực hiện tại mục ...",
+                    "options": [
+                        "A. Entrance.",
+                        "B. Emphasis.",
+                        "C. Exit.",
+                        "D. Motion paths."
+                    ],
+                    "answer": "B. Emphasis."
+                },
+                {
+                    "id": 45,
+                    "question": "Cookie là gì?",
+                    "options": [
+                        "A. Là một chương trình nhỏ nằm trong máy chủ và lưu trữ thông tin kết nối Internet của các máy người",
+                        "B. Là một chức năng cho phép xem thông tin lịch sử máy tính.",
+                        "C. Tất cả đều sai.",
+                        "D. Là các tệp tin văn bản nhỏ lưu trữ thông tin về quá trình truy xuất Internet của người dùng hoặc các thông tin cá nhân mà người dùng đã từng khai báo."
+                    ],
+                    "answer": "D. Là các tệp tin văn bản nhỏ lưu trữ thông tin về quá trình truy xuất Internet của người dùng hoặc các thông tin cá nhân mà người dùng đã từng khai báo."
+                },
+                {
+                    "id": 46,
+                    "question": "Với thư điện tử, phát biểu nào sau đây là sai?",
+                    "options": [
+                        "A. Có thể gửi 1 thư đến 10 địa chỉ khác nhau.",
+                        "B. Hai người có thể có địa chỉ thư giống nhau, ví dụ bachkhoa@gmail.com.",
+                        "C. 1 người có thể gửi thư cho chính mình, nhiều lần.",
+                        "D. Tệp tin định kèm theo thư có thể chưa virút, vậy nên cần kiểm tra virút trước khi sử dụng."
+                    ],
+                    "answer": "B. Hai người có thể có địa chỉ thư giống nhau, ví dụ bachkhoa@gmail.com."
+                },
+                {
+                    "id": 47,
+                    "question": "Chức năng của mật mã thông tin?",
+                    "options": [
+                        "A. Bảo vệ tính bí mật của thông tin.",
+                        "B. Bảo vệ tính toàn vẹn của thông tin.",
+                        "C. Bảo vệ tính khả dụng của thông tin.",
+                        "D. Bảo vệ tính không thể phủ nhận của thông tin."
+                    ],
+                    "answer": "A. Bảo vệ tính bí mật của thông tin."
+                },
+                {
+                    "id": 48,
+                    "question": "Tên viết tắt của tổ chức quản lý tên miền tại Việt nam là gì?",
+                    "options": [
+                        "A. VNName.",
+                        "B. Google.com.vn.",
+                        "C. VNNIC.",
+                        "D. VNDomainName."
+                    ],
+                    "answer": "C. VNNIC."
+                },
+                {
+                    "id": 49,
+                    "question": "VoIP (viết tắt của Voice over Internet Protocol) là gì?",
+                    "options": [
+                        "A. Phần mềm hỗ trợ nhắn tin trực tuyến.",
+                        "B. Công cụ gửi thư điện tử.",
+                        "C. Công nghệ truyền tiếng nói của con người (thoại) qua mạng thông tin sử dụng bộ giao thức TCP/IP.",
+                        "D. Mạng xã hội những người dùng Internet."
+                    ],
+                    "answer": "C. Công nghệ truyền tiếng nói của con người (thoại) qua mạng thông tin sử dụng bộ giao thức TCP/IP."
+                },
+                {
+                    "id": 50,
+                    "question": "Cụm từ BCC trong mail là viết tắt của từ nào nào sau đây ?",
+                    "options": [
+                        "A. Blind Carbon Copy",
+                        "B. Blanket Common Corp",
+                        "C. Bristish Comunication Center",
+                        "D. Blank Composing Copies"
+                    ],
+                    "answer": "C. British Communication Center"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Đề số 3",
+            "questions": [
+                {
+                    "id": 1,
+                    "question": "Trình tự xử lý thông tin của máy tính điện tử là?",
+                    "options": [
+                        "A. CPU - Đĩa cứng -> Màn hình.",
+                        "B. CPU - Bản phím -> Màn hình.",
+                        "C. Màn hình - >Máy in - Đĩa mềm.",
+                        "D. Nhận thông tin -> Xử lý thông tin -> Xuất thông tin."
+                    ],
+                    "answer": "D. Nhận thông tin -> Xử lý thông tin -> Xuất thông tin."
+                },
+                {
+                    "id": 2,
+                    "question": "Khái niệm \"bit\" trong Tin học là gì?",
+                    "options": [
+                        "A. Là đơn vị nhỏ nhất của thông tin được sử dụng trong máy tính.",
+                        "B. Là một phần tử nhỏ mang một trong 2 giá trị 0 và 1.",
+                        "C. Là một đơn vị đo thông tin.",
+                        "D. Tất cả đều đúng."
+                    ],
+                    "answer": "D. Tất cả đều đúng."
+                },
+                {
+                    "id": 3,
+                    "question": "Thuật ngữ “RAM” là từ viết tắt của cụm từ?",
+                    "options": [
+                        "A. Read Access Memory.",
+                        "B. Random Access Memory.",
+                        "C. Recent Access Memory.",
+                        "D. Read And Modify."
+                    ],
+                    "answer": "B. Random Access Memory."
+                },
+                {
+                    "id": 4,
+                    "question": "Địa chỉ vật lí trên card mạng được gọi là?",
+                    "options": [
+                        "A. Địa chỉ IP.",
+                        "B. Địa chỉ subnet mask.",
+                        "C. Địa chỉ MAC.",
+                        "D. Địa chỉ Default gateway."
+                    ],
+                    "answer": "C. Địa chỉ MAC."
+                },
+                {
+                    "id": 5,
+                    "question": "Hyperlink trong một trang Web là gì?",
+                    "options": [
+                        "A. Là nội dung được thể hiện trên Web Browser (văn bản, âm thanh, hình ảnh).",
+                        "B. Là một thành phần trong một trang Web liên kết đến vị trí khác trên cùng trang Web đó hoặc liên kết đến",
+                        "C. Là địa chỉ của 1 trang Web.",
+                        "D. Là một công cụ duyệt Internet."
+                    ],
+                    "answer": "B. Là một thành phần trong một trang Web liên kết đến vị trí khác trên cùng trang Web đó hoặc liên kết đến"
+                },
+                {
+                    "id": 6,
+                    "question": "Hệ điều hành nào dưới đây không phải là hệ điều hành đa nhiệm nhiều người dùng?",
+                    "options": [
+                        "A. Windows 2000.",
+                        "B. MS-DOS.",
+                        "C. UNIX.",
+                        "D. Linux."
+                    ],
+                    "answer": "B. MS-DOS."
+                },
+                {
+                    "id": 7,
+                    "question": "Thiết bị dưới đây đưa thông tin vào máy tính?",
+                    "options": [
+                        "A. Máy quét.",
+                        "B. Máy in.",
+                        "C. Chuột.",
+                        "D. Màn hình."
+                    ],
+                    "answer": "A. Máy quét."
+                },
+                {
+                    "id": 8,
+                    "question": "Các phần mềm sau đây thuộc nhóm phần mềm nào: Microsoft Office Word, AutoCad, Photoshop?",
+                    "options": [
+                        "A. Nhóm phần mềm hệ thống.",
+                        "B. Nhóm phần mềm cơ sở dữ liệu.",
+                        "C. Nhóm phần mềm hệ điều hành.",
+                        "D. Nhóm phần mềm ứng dụng."
+                    ],
+                    "answer": "D. Nhóm phần mềm ứng dụng."
+                },
+                {
+                    "id": 9,
+                    "question": "Thiết bị nào sau đây không thuộc về bộ nhớ ngoài của máy tính (tiếng Anh)?",
+                    "options": [
+                        "A. Monitor.",
+                        "B. Floppy Disk.",
+                        "C. Hard Disk.",
+                        "D. Flash Disk."
+                    ],
+                    "answer": "A. Monitor."
+                },
+                {
+                    "id": 10,
+                    "question": "Đâu không phải là đặc điểm của E_learning?",
+                    "options": [
+                        "A. Cập nhật mới nhanh.",
+                        "B. Sử dụng phấn bảng trong giảng dạy.",
+                        "C. Học mọi lúc, mọi nơi.",
+                        "D. Học liệu hấp dẫn"
+                    ],
+                    "answer": "B. Sử dụng phấn bảng trong giảng dạy."
+                },
+                {
+                    "id": 11,
+                    "question": "Để tắt máy tính đúng cách, phát biểu nào dưới đây là đúng?",
+                    "options": [
+                        "A. Rút nguồn điện và cắm lại.",
+                        "B. Từ cửa sổ màn hình nền nhấn nút Start...., sau đó chọn mục Restart.",
+                        "C. Bấm nút Reset trên hộp máy.",
+                        "D. Từ cửa sổ màn hình nền nhẫn nút Start...., sau đó chọn mục Shutdown."
+                    ],
+                    "answer": "D. Từ cửa sổ màn hình nền nhẫn nút Start...., sau đó chọn mục Shutdown."
+                },
+                {
+                    "id": 12,
+                    "question": "Phần mềm ứng dụng nào được sử dụng mở các các tệp tin có phần mở rộng là RAR, ZIP?",
+                    "options": [
+                        "A. WinRAR.",
+                        "B. WinZip.",
+                        "C. 7Zip.",
+                        "D. Cả 3 đáp án."
+                    ],
+                    "answer": "D. Cả 3 đáp án."
+                },
+                {
+                    "id": 13,
+                    "question": "Ứng dụng có thể đọc các file có phần mở rộng là WMV?",
+                    "options": [
+                        "A. Windows Media Player.",
+                        "B. Microsoft Paint.",
+                        "C. WordPad.",
+                        "D. NotePad."
+                    ],
+                    "answer": "A. Windows Media Player."
+                },
+                {
+                    "id": 14,
+                    "question": "Để cài đặt thêm các bộ Font trong môi trường Windows, ta dùng chức năng?",
+                    "options": [
+                        "A. Desktop của Control Panel.",
+                        "B. System của Control Panel.",
+                        "C. Fonts của Control Panel.",
+                        "D. Regional Settings của Control Panel."
+                    ],
+                    "answer": "C. Fonts của Control Panel."
+                },
+                {
+                    "id": 15,
+                    "question": "Để gõ được dấu tiếng Việt trong văn bản ta chọn bảng mã và Font chữ nào?",
+                    "options": [
+                        "A. Bảng mã Unicode, Font chữ Vni-Times.",
+                        "B. Bảng mã Unicode, Font chữ .VnTime.",
+                        "C. Bảng mã VNI Windows, Font chữ Arial.",
+                        "D. Tất cả đều sai."
+                    ],
+                    "answer": "D. Tất cả đều sai."
+                },
+                {
+                    "id": 16,
+                    "question": "Để xoá sạch tất cả tập tin (File) hoặc thư mục (Folder) trong Recycle Bin thì ta thực hiện?",
+                    "options": [
+                        "A. Kích chuột trái vào biểu tượng Recycle Bin và chọn Empty Recycle bin.",
+                        "B. Kích chuột phải vào biểu tượng Recycle Bin và chọn Properties.",
+                        "C. Kích chuột phải vào biểu tượng Recycle Bin và chọn Explore.",
+                        "D. Kích chuột phải vào biểu tượng Recycle Bin và chọn Empty Recycle bin."
+                    ],
+                    "answer": "D. Kích chuột phải vào biểu tượng Recycle Bin và chọn Empty Recycle bin."
+                },
+                {
+                    "id": 17,
+                    "question": "Hãy chọn phát biểu đúng trong các phát biểu sau?",
+                    "options": [
+                        "A. Chỉ cần một phần mềm diệt virus là có thể diệt tất cả các virus.",
+                        "B. Tại một thời điểm một phần mềm quét virus chỉ diệt được một số loại virus nhất định.",
+                        "C. Một phần mềm quét virus chỉ diệt được duy nhất một loại virus.",
+                        "D. Máy tính không kết nối internet thì không nhiễm virus."
+                    ],
+                    "answer": "B. Tại một thời điểm một phần mềm quét virus chỉ diệt được một số loại virus nhất định."
+                },
+                {
+                    "id": 18,
+                    "question": "Khi soạn thảo văn bản, muốn xuống dòng nhưng chưa muốn kết thúc đoạn, ta dùng tổ hợp phím?",
+                    "options": [
+                        "A. Ctrl + Enter",
+                        "B. Shift + Alt",
+                        "C. Shift + Enter",
+                        "D. Nhấn Ctrl"
+                    ],
+                    "answer": "C. Shift + Enter"
+                },
+                {
+                    "id": 19,
+                    "question": "Trong Microsoft Office Word muốn phục hồi thao tác vừa thực hiện thì bấm tổ hợp phím?",
+                    "options": [
+                        "A. Ctrl + Y",
+                        "B. Ctrl + Z",
+                        "C. Ctrl + V",
+                        "D. Ctrl + X"
+                    ],
+                    "answer": "B. Ctrl + Z"
+                },
+                {
+                    "id": 20,
+                    "question": "Trong Microsoft Office Word, công dụng của tổ hợp phím Ctrl + E là?",
+                    "options": [
+                        "A. Canh hai giữa đoạn văn bản",
+                        "B. Mở file có sẵn trên đĩa",
+                        "C. Luru file",
+                        "D. Xóa file"
+                    ],
+                    "answer": "A. Canh hai giữa đoạn văn bản"
+                },
+                {
+                    "id": 21,
+                    "question": "Trong Microsoft Office Word, công dụng của tổ hợp phím Ctrl+Q là?",
+                    "options": [
+                        "A. Tạo chỉ số dưới",
+                        "B. Tạo chỉ số trên",
+                        "C. Tăng kích thước font chữ",
+                        "D. Xóa toàn bộ định dạng căn lề TAB của văn bản"
+                    ],
+                    "answer": "D. Xóa toàn bộ định dạng căn lề TAB của văn bản"
+                },
+                {
+                    "id": 22,
+                    "question": "Trong Microsoft Office Word muốn thay đổi khoảng cách so với đoạn trước, khi chọn Paragraph... xuất hiện hộp thoại Paragraph ta thay đổi giá trị mục nào trong các mục sau trong nhóm Spacing?",
+                    "options": [
+                        "A. Left.",
+                        "B. Right.",
+                        "C. Before.",
+                        "D. After."
+                    ],
+                    "answer": "C. Before."
+                },
+                {
+                    "id": 23,
+                    "question": "Muốn tạo điểm dùng trong Microsoft Office Word ta chọn lệnh?",
+                    "options": [
+                        "A. Borders and Shading....",
+                        "B. Drop Cap....",
+                        "C. Tabs....",
+                        "D. Bullets and Numbering...."
+                    ],
+                    "answer": "C. Tabs...."
+                },
+                {
+                    "id": 24,
+                    "question": "Chức năng View\\Zoom trong Microsoft Office Word là để?",
+                    "options": [
+                        "A. Viết chữ vào chân trang hoặc đầu trang.",
+                        "B. Thay đổi kích thước (độ lớn) chữ.",
+                        "C. Tất cả phương án trên đều sai.",
+                        "D. Phóng to hay thu nhỏ hình ảnh các trang văn bản."
+                    ],
+                    "answer": "D. Phóng to hay thu nhỏ hình ảnh các trang văn bản."
+                },
+                {
+                    "id": 25,
+                    "question": "Trong Microsoft Office Word muốn in toàn bộ văn bản ta thực hiện, ta chọn File > Print và trong Settings",
+                    "options": [
+                        "A. Print All Pages.",
+                        "B. Phan Pages go: All.",
+                        "C. Print Selection",
+                        "D. Print Current Page."
+                    ],
+                    "answer": "A. Print All Pages."
+                },
+                {
+                    "id": 26,
+                    "question": "Để sao chép một TextBox (hoặc một Picture), ta chọn Textbox (hoặc Picture), trỏ chuột vào đối tượng đó rồi",
+                    "options": [
+                        "A. Nhấn phím Shift, đồng thời kéo rê đối tượng đến vị trí muốn sao chép rồi thả chuột.",
+                        "B. Nhấn phím Ctrl, đồng thời kéo rê đối tượng đến vị trí muốn sao chép rồi thả chuột.",
+                        "C. Không cần giữ phím nào cả, chỉ kéo rê đối tượng đến vị trí muốn sao chép rồi thả chuột.",
+                        "D. Textbox và Picture không cho phép thực hiện sao chép."
+                    ],
+                    "answer": "B. Nhấn phím Ctrl, đồng thời kéo rê đối tượng đến vị trí muốn sao chép rồi thả chuột."
+                },
+                {
+                    "id": 27,
+                    "question": "Phần mềm nào dưới đây là phần mềm bảng tính trực tuyến?",
+                    "options": [
+                        "A. Microsofft Office Excel 2010.",
+                        "B. Apple iWorks - Apple Number.",
+                        "C. Google Sheets.",
+                        "D. Open Office - Calc."
+                    ],
+                    "answer": "C. Google Sheets."
+                },
+                {
+                    "id": 28,
+                    "question": "Trong Microsofft Office Excel, để xuống dòng trong 1 ô sau ta sử dụng phím tắt?",
+                    "options": [
+                        "A. Tab",
+                        "B. Shift + Tab",
+                        "C. Alt + Enter",
+                        "D. Page Down"
+                    ],
+                    "answer": "C. Alt + Enter"
+                },
+                {
+                    "id": 29,
+                    "question": "Trong bảng tính Excel, tại ô A2 có sẵn giá trị số 25, tại ô B2 gõ vào công thức =SQRT(A2) thì nhận được kết",
+                    "options": [
+                        "A. 12.5",
+                        "B. 625",
+                        "C. #NAME!",
+                        "D. 5"
+                    ],
+                    "answer": "D. 5"
+                },
+                {
+                    "id": 30,
+                    "question": "Trong Microsofft Office Excel, các dạng địa chỉ sau đây, địa chỉ nào là địa chỉ tuyệt đối?",
+                    "options": [
+                        "A.",
+                        "B. SB1:SD10",
+                        "C. B$1$:D$10$",
+                        "D. $B$1:SD$10"
+                    ],
+                    "answer": "D. $B$1:SD$10"
+                },
+                {
+                    "id": 31,
+                    "question": "Để thực hiện gộp nhiều ô thành 1 ô và canh lề giữa trong Microsoft Office Excel ta thực hiện lệnh?",
+                    "options": [
+                        "A. Split Cell",
+                        "B. Cut Cells",
+                        "C. Join Cells",
+                        "D. Merge and Center"
+                    ],
+                    "answer": "D. Merge and Center"
+                },
+                {
+                    "id": 32,
+                    "question": "Trong Microsofft Office Excel để nhập được nhiều dòng trong một ô (cell) dùng tổ hợp phím?",
+                    "options": [
+                        "A. Enter",
+                        "B. Shift + Enter",
+                        "C. Alt + Enter",
+                        "D. Ctrl + Enter"
+                    ],
+                    "answer": "C. Alt + Enter"
+                },
+                {
+                    "id": 33,
+                    "question": "Trong Excel, tại ô A2 có sẵn ký tự “h”. Tại ô B2 gõ vào công thức =5/A2 thì nhận được kết quả?",
+                    "options": [
+                        "A. #VALUE!",
+                        "B. #NAME?",
+                        "C. #DIV/0!",
+                        "D. #N/A!"
+                    ],
+                    "answer": "A. #VALUE!"
+                },
+                {
+                    "id": 34,
+                    "question": "Trong bảng tính Excel, tại ô A2 có sẵn giá trị số 10 ; Tại ô B2 gõ vào công thức PRODUCT(A2,5) thì nhận được kết quả là?",
+                    "options": [
+                        "A. 10",
+                        "B. 5",
+                        "C. #Value!",
+                        "D. 50"
+                    ],
+                    "answer": "D. 50"
+                },
+                {
+                    "id": 35,
+                    "question": "Trong Microsoft Office Excel biểu thức sau=SUM(4,6,-2,9,s) trả lại kết quả là bao nhiêu?",
+                    "options": [
+                        "A. #NAME?",
+                        "B. #VALUE!",
+                        "C. 5",
+                        "D. 17"
+                    ],
+                    "answer": "A. #NAME?"
+                },
+                {
+                    "id": 36,
+                    "question": "Trình bày là gì?",
+                    "options": [
+                        "A. Là soạn các văn bản theo chủ đề cụ thể.",
+                        "B. Là quá trình chuyển giao công nghệ và kiến thức cho mọi người thông qua sách vở",
+                        "C. Là hình thức chia sẻ kiến thức về một chủ đề nào đó cho người khác.",
+                        "D. Tất cả các ý kiến đều đúng."
+                    ],
+                    "answer": "C. Là hình thức chia sẻ kiến thức về một chủ đề nào đó cho người khác."
+                },
+                {
+                    "id": 37,
+                    "question": "Phần mở rộng mặc định của tập tin Microsoft Office PowerPoint 2003 là?",
+                    "options": [
+                        "A. doc.",
+                        "B. xlsx.",
+                        "C. ppt.",
+                        "D. pptx."
+                    ],
+                    "answer": "C. ppt."
+                },
+                {
+                    "id": 38,
+                    "question": "Để kết thúc việc trình diễn trong Microsoft Office PowerPoint, ta bấm?",
+                    "options": [
+                        "A. Phím F10.",
+                        "B. Phim ESC.",
+                        "C. Phim Enter.",
+                        "D. Phim Delete."
+                    ],
+                    "answer": "B. Phim ESC."
+                },
+                {
+                    "id": 39,
+                    "question": "Trong khi thiết kế giáo án điện tử trên Microsoft Office PowerPoint, thực hiện thao tác chọn Insert ~ New Slide là để?",
+                    "options": [
+                        "A. Chèn thêm một slide mới vào ngay trước slide hiện hành.",
+                        "B. Chèn thêm một slide mới vào ngay trước slide đầu tiên.",
+                        "C. Chèn thêm một slide mới vào ngay sau slide cuối cùng.",
+                        "D. Chèn thêm một slide mới vào ngay sau slide hiện hành."
+                    ],
+                    "answer": "D. Chèn thêm một slide mới vào ngay sau slide hiện hành."
+                },
+                {
+                    "id": 40,
+                    "question": "Để mở hộp thoại định dạng Font chữ trong Microsoft Office PowerPoint ta dùng phím tắt?",
+                    "options": [
+                        "A. Ctrl + D.",
+                        "B. Ctrl+Shift+D.",
+                        "C. Ctrl+F.",
+                        "D. Tất cả đều sai."
+                    ],
+                    "answer": "D. Tất cả đều sai."
+                },
+                {
+                    "id": 41,
+                    "question": "Trong Microsoft Office PowerPoint ta có thể chèn liên kết đến?",
+                    "options": [
+                        "A. Một địa chỉ Website.",
+                        "B. Một Slide.",
+                        "C. Một tập tin đã có.",
+                        "D. Tất cả đều đúng."
+                    ],
+                    "answer": "D. Tất cả đều đúng."
+                },
+                {
+                    "id": 42,
+                    "question": "Để viết chữ vào một vùng trống trong Slide bạn phải?",
+                    "options": [
+                        "A. Kích chuột vào 1 dòng và viết chữ vào .",
+                        "B. Thực hiện lệnh Insert/Text và viết chữ vào.",
+                        "C. Thực hiện lệnh Insert/Text Box và viết chữ vào.",
+                        "D. Tất cả đều sai."
+                    ],
+                    "answer": "C. Thực hiện lệnh Insert/Text Box và viết chữ vào."
+                },
+                {
+                    "id": 43,
+                    "question": "Chức năng Design/Format Background trong Microsoft Office PowerPoint dùng để?",
+                    "options": [
+                        "A. Thay đổi mẫu, hình ảnh nền hình ảnh chèn vào.",
+                        "B. Thay đổi màu, hình ảnh nền TextBox chèn vào.",
+                        "C. Thay đổi màu, hình ảnh nền Slide.",
+                        "D. Thay đổi màu văn bản."
+                    ],
+                    "answer": "C. Thay đổi màu, hình ảnh nền Slide."
+                },
+                {
+                    "id": 44,
+                    "question": "Trong Microsoft Office PowerPoint để lưu file ra dạng pdf ta thực hiện?",
+                    "options": [
+                        "A. Chọn File/Export to PDF.",
+                        "B. Chọn File/Save As và chọn kiểu file .pdf trong Save as type.",
+                        "C. Không thể làm được.",
+                        "D. Chọn File/Save."
+                    ],
+                    "answer": "B. Chọn File/Save As và chọn kiểu file .pdf trong Save as type."
+                },
+                {
+                    "id": 45,
+                    "question": "Thông tin nào sau đây liên quan tới mạng Internet?",
+                    "options": [
+                        "A. Mạng máy tính lớn nhất toàn cầu.",
+                        "B. Sử dụng bộ giao thức TCP/IP.",
+                        "C. Cung cấp lượng thông tin khổng lồ và nhiều dịch vụ mới.",
+                        "D. Tất cả các đáp án."
+                    ],
+                    "answer": "D. Tất cả các đáp án."
+                },
+                {
+                    "id": 46,
+                    "question": "Phát biểu nào dưới đây là sai?",
+                    "options": [
+                        "A. Mở nhiều cửa số duyệt web cho nhiều địa chỉ web khác nhau.",
+                        "B. Vừa mở cửa sổ duyệt web, vừa chơi game trong lúc chờ trang web xuất hiện đầy đủ nội dung.",
+                        "C. Nhấn nút BACK để đóng cửa sổ duyệt Web.",
+                        "D. Nhấn nút REFRESH là để bắt đầu lại quá trình tải trang web từ máy phục vụ về máy cá nhân của người"
+                    ],
+                    "answer": "C. Nhấn nút BACK để đóng cửa sổ duyệt Web."
+                },
+                {
+                    "id": 47,
+                    "question": "Muốn xem được trang web, máy tính của bạn cần phải cài đặt?",
+                    "options": [
+                        "A. Microsoft Office FronPage.",
+                        "B. Một chương trình duyệt web.",
+                        "C. Outlook Express.",
+                        "D. Microsoft Office Word."
+                    ],
+                    "answer": "B. Một chương trình duyệt web."
+                },
+                {
+                    "id": 48,
+                    "question": "World Wide Web là gì?",
+                    "options": [
+                        "A. Là một hệ thống các máy chủ cung cấp thông tin đến bất kỳ các máy tính nào trên Internet có yêu cầu.",
+                        "B. Là máy dùng để đặt các trang web trên Internet",
+                        "C. Là một dịch vụ của Internet.",
+                        "D. Là một dịch vụ lưu trữ dữ liệu trực tuyến."
+                    ],
+                    "answer": "C. Là một dịch vụ của Internet."
+                },
+                {
+                    "id": 49,
+                    "question": "Diễn đàn trên Internet dùng để làm gì?",
+                    "options": [
+                        "A. Cho phép các thành viên giao lưu trực tuyến với nhau.",
+                        "B. Cho phép các thành viên thảo luận trực tuyến với nhau.",
+                        "C. Tìm kiếm thông tin.",
+                        "D. Cho phép các thành viên có thể trao đổi, học hỏi về nhiều lĩnh vực có cùng sự quan tâm."
+                    ],
+                    "answer": "D. Cho phép các thành viên có thể trao đổi, học hỏi về nhiều lĩnh vực có cùng sự quan tâm."
+                },
+                {
+                    "id": 50,
+                    "question": "Thông thường, để có thể biết một tên miền là của nước nào, ta nên nhìn vào thành phần nào của tên miền đó",
+                    "options": [
+                        "A. Thành phần cuối cùng (bên phải).",
+                        "B. Thành phần đầu tiên (bên trái).",
+                        "C. Thành phần thứ 2 từ phải sang.",
+                        "D. Không có quy tắc về quốc gia trong tên miền."
+                    ],
+                    "answer": "A. Thành phần cuối cùng (bên phải)."
+                }
+            ]
+        }
+    ]
+}
