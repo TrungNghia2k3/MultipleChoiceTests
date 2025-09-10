@@ -77,7 +77,7 @@
                         "A. Là đơn vị đo dộ phân giải màn hình.",
                         "B. Là đơn vị đo cường độ âm thanh.",
                         "C. Là đơn vị đo tốc độ xử lý",
-                        "D. LÀ đơn vị đo khả năng lưu trữ"
+                        "D. Là đơn vị đo khả năng lưu trữ"
                     ],
                     "answer": "D. Là đơn vị đo khả năng lưu trữ"
                 },
@@ -1528,11 +1528,11 @@
                     "question": "Để kết thúc việc trình diễn trong Microsoft Office PowerPoint, ta bấm?",
                     "options": [
                         "A. Phím F10.",
-                        "B. Phim ESC.",
-                        "C. Phim Enter.",
-                        "D. Phim Delete."
+                        "B. Phím ESC.",
+                        "C. Phím Enter.",
+                        "D. Phím Delete."
                     ],
-                    "answer": "B. Phim ESC."
+                    "answer": "B. Phím ESC."
                 },
                 {
                     "id": 39,
